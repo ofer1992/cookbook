@@ -2,6 +2,7 @@
 date: 2025-11-20
 tags:
   - journal
+description: Miznon-style minute steak in pita with smashed potatoes and steamed green beans. Tasty but some execution issues with the sides.
 ---
 Cooked dinner for GF. She asked for [[Minute Steak]], so I went with the Miznon-style minute steak in pita dish. Also added sides of [[Smashed Potatoes]] and [[Steamed Green Beans]]. Turned out pretty nice, she liked it. Still, I felt things weren't 100%:
 - Even though the potatoes ended up tasty, the surface was a bit dried-out, maybe because I left it in the oven? not sure

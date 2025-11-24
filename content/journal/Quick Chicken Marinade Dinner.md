@@ -3,6 +3,7 @@ date: 2025-11-24
 tags:
   - chicken
   - journal
+description: Quick yoghurt lemon garlic marinated chicken breast. Came out alright but not super tasty - need to follow the recipe more carefully next time.
 ---
 I bought groceries today, among them chicken breast and yoghurt, and I figured I'd do a [[Yoghurt Lemon Garlic Marinated Chicken]]. I asked gemini for a recipe, was too lazy to google it myself. This is the that I linked to (as of the time of writing). I didn't follow it completely;
 - Didn't premix the base

@@ -2,6 +2,7 @@
 tags:
   - recipe
   - chicken
+description: Mediterranean-style lemon garlic yogurt marinade for chicken. Perfect for grilling, baking, or pan-searing.
 ---
 Based on the amount of chicken in your container (looks like roughly 1.5 to 2 lbs or ~800g), here is a perfect **Lemon Garlic Yogurt Marinade** recipe.
 
